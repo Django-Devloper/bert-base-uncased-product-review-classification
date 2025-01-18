@@ -1,0 +1,9 @@
+transformers
+numpy
+pandas
+scikit-learn
+evaluate
+streamlit
+datasets
+huggingface-hub
+tf-keras
