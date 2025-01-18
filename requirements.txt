@@ -6,5 +6,4 @@ evaluate
 streamlit
 datasets
 huggingface-hub
-tf-keras
-pytorch
+torch
